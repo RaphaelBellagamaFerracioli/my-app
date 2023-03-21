@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.9e6cb898.css",
+    "main.js": "/my-app/static/js/main.6c3b040f.js",
+    "static/media/futaba.jpg": "/my-app/static/media/futaba.a59982c226f2538c8087.jpg",
+    "index.html": "/my-app/index.html",
+    "main.9e6cb898.css.map": "/my-app/static/css/main.9e6cb898.css.map",
+    "main.6c3b040f.js.map": "/my-app/static/js/main.6c3b040f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6cb898.css",
+    "static/js/main.6c3b040f.js"
+  ]
+}
