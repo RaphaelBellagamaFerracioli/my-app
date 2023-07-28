@@ -12,7 +12,8 @@ export default function AplicationRotes() {
       
     <BrowserRouter>
     
-    <NavBar></NavBar>
+     //* 
+     <NavBar></NavBar>
    
    <Routes>
 
